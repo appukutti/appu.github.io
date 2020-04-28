@@ -8830,7 +8830,7 @@ h1, h2, h3, h4, h5,
   overflow: visible; }
 
 .progress-bar {
-  background: #3e64ff;
+ /* background: #3e64ff;*/
   -webkit-box-shadow: none;
   box-shadow: none;
   font-size: 12px;
